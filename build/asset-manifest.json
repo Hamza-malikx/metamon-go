@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83550d5c.chunk.css",
+    "main.js": "/static/js/main.9d824592.chunk.js",
+    "main.js.map": "/static/js/main.9d824592.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.143d8334.js",
+    "runtime-main.js.map": "/static/js/runtime-main.143d8334.js.map",
+    "static/css/2.a10dd41c.chunk.css": "/static/css/2.a10dd41c.chunk.css",
+    "static/js/2.4cdd8816.chunk.js": "/static/js/2.4cdd8816.chunk.js",
+    "static/js/2.4cdd8816.chunk.js.map": "/static/js/2.4cdd8816.chunk.js.map",
+    "static/js/3.53043b56.chunk.js": "/static/js/3.53043b56.chunk.js",
+    "static/js/3.53043b56.chunk.js.map": "/static/js/3.53043b56.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a10dd41c.chunk.css.map": "/static/css/2.a10dd41c.chunk.css.map",
+    "static/css/main.83550d5c.chunk.css.map": "/static/css/main.83550d5c.chunk.css.map",
+    "static/js/2.4cdd8816.chunk.js.LICENSE.txt": "/static/js/2.4cdd8816.chunk.js.LICENSE.txt",
+    "static/media/Picture1.f00c6a97.png": "/static/media/Picture1.f00c6a97.png",
+    "static/media/index.css": "/static/media/wallpaper-metamon (2).7915c135.jpg",
+    "static/media/devil.6ecfdfdf.png": "/static/media/devil.6ecfdfdf.png",
+    "static/media/gamepay1 (1) (1).baa89498.jpg": "/static/media/gamepay1 (1) (1).baa89498.jpg",
+    "static/media/gameplay3 (2) (1).cfd1347e.jpg": "/static/media/gameplay3 (2) (1).cfd1347e.jpg",
+    "static/media/gameplay5 (1).575605a0.jpg": "/static/media/gameplay5 (1).575605a0.jpg",
+    "static/media/metamon-fight (1) (1).d08496f9.jpg": "/static/media/metamon-fight (1) (1).d08496f9.jpg",
+    "static/media/800.css": "/static/media/montserrat-vietnamese-800-normal.2abd720c.woff2",
+    "static/media/400.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/700.css": "/static/media/roboto-vietnamese-700-normal.3096f18a.woff2",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/unnamed.c76ba6ea.jpg": "/static/media/unnamed.c76ba6ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.143d8334.js",
+    "static/css/2.a10dd41c.chunk.css",
+    "static/js/2.4cdd8816.chunk.js",
+    "static/css/main.83550d5c.chunk.css",
+    "static/js/main.9d824592.chunk.js"
+  ]
+}
