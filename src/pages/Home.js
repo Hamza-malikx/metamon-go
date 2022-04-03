@@ -7,6 +7,7 @@ import { CountCard } from '../components';
 
 import lgVid from '../vids/1920-ag.mp4';
 import smVid from '../vids/360.mp4';
+import sc from '../vids/9FF95661-04E1-403E-9FF3-B953EE2A5534.png';
 export default function Home({ data, onConnect, address, onMint }) {
   const width = Math.max(
     document.documentElement.clientWidth || 0,
@@ -41,14 +42,9 @@ export default function Home({ data, onConnect, address, onMint }) {
             <source src={lgVid} type="video/mp4" />
           </video>
         ) : (
-          <div
-            dangerouslySetInnerHTML={{
-              __html: `<video className="app__backgroundVideo" autoplay loop muted playsinline>
-      <source src=${smVid} type="video/mp4" />
-      Your browser does not support the video tag.
-</video>`,
-            }}
-          />
+          <div>
+            <img src={sc} alt="" style={{ width: '100%', height: '100%' }} />
+          </div>
         )}
       </div>
     </>
