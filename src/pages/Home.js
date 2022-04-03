@@ -5,7 +5,7 @@ import Countdown from 'react-countdown';
 
 import { CountCard } from '../components';
 
-import lgVid from '../vids/1920.mp4';
+import lgVid from '../vids/1920-ag.mp4';
 import smVid from '../vids/360.mp4';
 export default function Home({ data, onConnect, address, onMint }) {
   const width = Math.max(
