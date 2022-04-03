@@ -41,7 +41,10 @@ export default function Home({ data, onConnect, address, onMint }) {
             <source src={lgVid} type="video/mp4" />
           </video>
         ) : (
-          <video autoPlay muted style={{ width: '100%' }}>
+          <video loop
+          muted
+          autoplay
+          playsinline style={{ width: '100%' }}>
             <source src={smVid} type="video/mp4" />
           </video>
         )}
