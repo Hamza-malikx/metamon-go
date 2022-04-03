@@ -41,11 +41,21 @@ export default function Home({ data, onConnect, address, onMint }) {
             <source src={lgVid} type="video/mp4" />
           </video>
         ) : (
-          <video autoPlay muted style={{ width: '100%' }}>
-            <source src={smVid} type="video/mp4" />
-          </video>
+          <div
+            dangerouslySetInnerHTML={{
+              __html: `<video className="app__backgroundVideo" autoplay loop muted playsinline>
+      <source src=${smVid} type="video/mp4" />
+      Your browser does not support the video tag.
+</video>`,
+            }}
+          />
         )}
       </div>
     </>
   );
+}
+{
+  /* <video autoPlay muted style={{ width: '100%' }}>
+            <source src={smVid} type="video/mp4" />
+          </video> */
 }
