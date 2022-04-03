@@ -36,12 +36,12 @@ export default function Home({ data, onConnect, address, onMint }) {
         ></Box>
       </Box> */}
       <div>
-        {width > 360 ? (
+        {width > 460 ? (
           <video autoPlay muted>
             <source src={lgVid} type="video/mp4" />
           </video>
         ) : (
-          <video autoPlay muted>
+          <video autoPlay muted style={{ width: '100%' }}>
             <source src={smVid} type="video/mp4" />
           </video>
         )}
