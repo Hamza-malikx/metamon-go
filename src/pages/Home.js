@@ -38,7 +38,7 @@ export default function Home({ data, onConnect, address, onMint }) {
       </Box> */}
       <div>
         {width > 460 ? (
-          <video autoPlay muted>
+          <video autoPlay muted loop>
             <source src={lgVid} type="video/mp4" />
           </video>
         ) : (
