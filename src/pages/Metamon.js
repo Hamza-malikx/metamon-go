@@ -28,7 +28,7 @@ const Metamon = () => {
         <p style={{ margin: '0 0 24px' }}>
           2. To download the game, sign in on the official website.
         </p>
-        <h3>Metamon is Poised to be a Leading Metamon Offering</h3>
+        <h3>Metamon is poised to be a leading Metaverse experience</h3>
         <p style={{ margin: '10px 0 20px' }}>
           Diverse game scenarios and unique gameplay have made Metamon a
           high-profile Metamon project. There are plenty of strategies and

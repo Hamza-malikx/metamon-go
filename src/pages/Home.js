@@ -5,7 +5,7 @@ import Countdown from 'react-countdown';
 
 import { CountCard } from '../components';
 
-import lgVid from '../vids/1920-ag.mp4';
+import lgVid from '../vids/Untitled.mp4';
 import smVid from '../vids/360.mp4';
 import sc from '../vids/9FF95661-04E1-403E-9FF3-B953EE2A5534.png';
 export default function Home({ data, onConnect, address, onMint }) {
